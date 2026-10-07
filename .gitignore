@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Qualcomm AI Hub
+*.tflite
+*.dlc
+*.onnx
+*.bin
+*.serialized
+qnn_output/
+qairt_output/
+
+# Model files (large)
+models/compiled/
+models/exported/
+models/quantized/
+
+# Benchmark results (generated)
+benchmarks/results/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
