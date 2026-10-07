@@ -1,6 +1,6 @@
 # 🚀 Qualcomm Edge AI Workshop
 
-> **A hands-on, Google Codelab-style workshop for building, optimizing, and deploying AI models on Snapdragon® NPUs using Qualcomm AI Hub, QAIRT, QNN, and GenieX.**
+> **A hands-on, step-by-step interactive workshop for building, optimizing, and deploying AI models on Snapdragon® NPUs using Qualcomm AI Hub, QAIRT, QNN, and GenieX.**
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Qualcomm AI Hub](https://img.shields.io/badge/Qualcomm-AI%20Hub-3253DC.svg)](https://aihub.qualcomm.com)
@@ -63,7 +63,7 @@ On-Device Inference          Benchmarking
 
 ## 🗺️ Workshop Curriculum & Modules
 
-The workshop is organized into **12 bite-sized modules** designed like Google Codelabs. Each module has a designated time, clear goals, step-by-step instructions, and runnable scripts:
+The workshop is organized into **12 bite-sized, hands-on modules**. Each module has a designated time, clear goals, step-by-step instructions, and runnable scripts:
 
 | Module | Title | Duration | Hands-on Component | Description |
 |:---|:---|:---:|:---|:---|
@@ -146,7 +146,7 @@ Workshop-Qualcomm/
 ├── pyproject.toml                # Project packaging configuration
 ├── requirements.txt              # Pinned Python package dependencies
 │
-├── docs/                         # Codelab step-by-step reading modules
+├── docs/                         # Step-by-step modular guide and tutorials
 │   ├── 00-overview.md            # Module 00: Overview & Learning Journey
 │   ├── 01-edge-ai.md             # Module 01: Edge AI & Qualcomm Hardware Concepts
 │   ├── 02-setup.md               # Module 02: Environment Setup & Diagnostics

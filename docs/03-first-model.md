@@ -26,7 +26,7 @@ MobileNetV2 (PyTorch, CPU)
 
 ### What is MobileNetV2?
 
-MobileNetV2 is an image classification model designed by Google specifically for **mobile and edge devices**. It classifies images into 1,000 ImageNet categories (dog breeds, vehicles, objects, etc.).
+MobileNetV2 is an image classification model designed specifically for **mobile and edge devices**. It classifies images into 1,000 ImageNet categories (dog breeds, vehicles, objects, etc.).
 
 | Property | Value |
 |---|---|

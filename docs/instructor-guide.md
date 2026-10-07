@@ -123,7 +123,7 @@ Pre-download these before the workshop:
 
 **Module 1:**
 - "Who has used an AI feature on their phone? What was it?"
-- "Why do you think Apple/Google/Qualcomm are building AI chips?"
+- "Why do you think major hardware manufacturers are building dedicated AI chips?"
 
 **Module 3:**
 - "What confidence score did you get? Was the prediction correct?"
